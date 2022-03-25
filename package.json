@@ -1,0 +1,24 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "\"this is a repository to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul-Biswal-new/git-test.git"
+  },
+  "author": "RB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul-Biswal-new/git-test/issues"
+  },
+  "homepage": "https://github.com/Rahul-Biswal-new/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
